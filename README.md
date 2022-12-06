@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-In this Analysis, we were given data by Maria to help her analyze the data on student funding and test scores. We have uncovered some academic dishonestly involving the math and reading grades for 9th graders at Thomas High School. With this information we will be redoing their district analysis to better assist the school board in making decisions regarding the school budgets and priorities.
+In this Analysis, we were given data by Maria to help her analyze the data on student funding and test scores. We have uncovered some academic dishonesty involving the math and reading grades for 9th graders at Thomas High School. With this information we will be redoing their district analysis to better assist the school board in making decisions regarding the school budgets and priorities.
 
 ## The Results
 Here are the results of Thomas High School before we replaced the 9th grade scores:
